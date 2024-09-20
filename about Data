@@ -1,0 +1,85 @@
+Data is raw information.
+Data might be facts, statistics, opinions, or any kind of content that is recorded in some format.
+This could include voices, photos, names, and even dance moves!
+So, when data analysts handle raw information to uncover its story, they start by organizing data into one of two forms: structured data or unstructured data. 
+
+Structured data:
+Structured data is information that can be organized in rows and columns.
+like as spreadsheet and excel and tools like SQL.
+Structured data is the most useful form of data because it’s highly organized and can be manipulated.
+
+Unstructured data:
+Unstructured data refers to “everything else”. There is no predefined format.
+Examples of unstructured data include images, texts, social media posts, like tweets, customer comments, medical records, and even song lyrics,email.
+Unstructured data can be harder to work with compared to structured data.
+
+Databases:
+A database is an organized collection of structured data in a computer system. 
+Think of a database as a container or repository with many columns and rows. A database makes data highly organized, so the data is easily accessible by queries and computation software.
+Relational databases: are collections of multiple data sets or tables that link together. 
+
+A key concept to know is that most data falls into one of two groups: quantitative or qualitative.
+
+Quantitative data:
+Quantitative means something is numerical and you can count it.  Think quantity - something you can count (or measure).
+Is also called numerical data.
+Represents things that can be measured and assigned values.
+Can be counted and measured, such as height, weight, length, blood pressure, the temperature outside, and so on.
+
+Qualitative data:
+Qualitative means something is not numerical and can’t be counted. Think quality – something you can categorize about data instead.
+Is also called categorical data.
+Represents the characteristics, attributes, properties, and qualities of things.
+Describes data using language (rather than numbers), such as smell, location, color, texture, marital status, and so on.
+
+
+
+What is big data?
+“Put simply, big data is larger, more complex data sets, especially from new data sources. These data sets are so voluminous that traditional data processing software just can’t manage them. But these massive volumes of data can be used to address business problems you wouldn’t have been able to tackle before.”~ oracle
+
+5 V’s :
+The elements of big data can be explained using five broad characteristics called the 5 V’s.
+The 5 V’s are Volume, Variety, Velocity, Veracity, and Value.
+Volume : refers to the vast amounts of data being generated.
+There are exabytes, zettabytes, and yottabytes of data! What are these?
+One gigabyte is roughly equivalent to one billion bytes.
+One exabyte is one billion gigabytes.
+One zettabyte is approximately equal to one thousand exabytes. 
+One yottabyte is one thousand zettabyes.
+Variety: refers to the different types of data to use. 
+Velocity: refers to the incredible speed at which new data is generated and the speed at which it moves around.
+Veracity: refers to the quality and trustworthiness of data.
+Value: refers to the ability to turn data into value. The main reasons why people invest time to understand big data is to derive value from it.
+
+Data analytics:
+In a constantly changing business environment, it can be hard to predict the next move. That’s where data analytics comes in. A successful data analytics initiative can provide a clear picture of where you are, where you have been, and where you should go.
+The information technology (IT) industry typically recognizes four types of data analytics:
+1. Descriptive analytics
+2. Diagnostic analytics
+3. Predictive analytics
+4. Prescriptive analytics 
+the degree of difficulty and resources required increases for each type of data analytics. At the same time, the level of added insight and value also increases.
+1.Descriptive analytics is the simplest and most common type of data analytics.Descriptive analytics answers the question, “What is happening?”. It provides a snapshot of business trends and patterns and uses historical and current data.
+2.After asking the question, “What is happening?”, the next step is to dive deeper and ask “why?”, such as,  “Why are trends and patterns happening?” This is where diagnostic analytics comes in.
+ drills down to find the causes of specific problems.
+3.Predictive analytics is about forecasting. This type of analytics uses historical data to make predictions about the future.In a world of great uncertainty, being able to predict allows businesses to make better decisions.
+4.Prescriptive analytics combines the insight from all previous data analyses to determine a course of action to take to address a problem or make a decision.The purpose of prescriptive analytics is to prescribe what action to take to eliminate a future problem or take full advantage of a promising trend.Prescriptive analytics uses advanced tools and technologies, like machine learning, business rules, and algorithms. 
+
+Extract, transform, and load (ETL) :
+ETL is a data integration process that combines data from multiple data sources into a single, consistent data store that is loaded into a data warehouse or other target system.
+
+
+While there is no single, defined data analysis process, these are the typical steps to follow:
+-Collect
+-Clean
+-Analyze
+-Visualize
+
+Data visualization:
+A data visualization is a graphical display of abstract or complex information.
+ Data analysts use visualizations like charts, graphs, and maps for two reasons:
+1. To explore and interpret data during analysis to identify patterns or trends
+2. To communicate results and help people understand the insights to make decisions
+
+
+
