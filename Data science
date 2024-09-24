@@ -1,0 +1,12 @@
+ What is data science? 
+Data science combines the scientific method, math and statistics, specialized programming, advanced analytics, AI, and even storytelling to uncover and explain the business insights buried in data.
+Data science encompasses preparing data for analysis and processing, performing advanced data analysis, and presenting the results to reveal patterns and enable stakeholders to draw informed conclusions.
+
+Tableau:
+start page:-
+ tableau opens on the start page, whic includes three main areas- Connect,Open,and Discover.
+1. connecting the data in the tableau is the first step.
+you  can connect the data from your files like excel ,text file, json file, pdf etc 
+or you can connect it through server like as mysql ,oracle etc.
+2.Select and preview your data-
+Once you have connected to a data source, you need to select a specific sheet or table. In the short video below, learn the steps for selecting the sheets or tables you want to work with.
